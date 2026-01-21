@@ -1,6 +1,6 @@
 # K-Drama Reviewer App
 
-A modern React Native app built with Expo Router and Firebase for discovering K-Dramas, writing reviews, and discussing episodes. Users browse dramas, post overall reviews, track personal thoughts, and share episode-specific feedback in real-time. [reddit](https://www.reddit.com/r/reactnative/comments/18wjtaf/project_structure_for_expo_router/)
+A modern React Native app built with Expo Router and Firebase for discovering K-Dramas, writing reviews, and discussing episodes. Users browse dramas, post overall reviews, track personal thoughts, and share episode-specific feedback in real-time. 
 
 ## Features
 
@@ -56,7 +56,7 @@ Beautiful drama cards with live review counts and colorful left borders
 
 <img width="354" height="788" alt="Screenshot 2026-01-21 114845" src="https://github.com/user-attachments/assets/fff0fc8b-6677-44fe-bd67-766ad7989c7b" />
 
-###3. **Drama Details**
+### 3. **Drama Details**
 Rich drama header with gradient + Reviews can be posted:
 
 
@@ -69,7 +69,7 @@ Rich drama header with gradient + Reviews can be posted:
 
 ​
 
-###4. **Episodes List**
+### 4. **Episodes List**
 List of episodes per drama with live review counts per episode
 Tap any episode → Episode-specific review board
 Shows: Total reviews for each episode in real-time
@@ -78,13 +78,13 @@ Shows: Total reviews for each episode in real-time
 <img width="351" height="787" alt="Screenshot 2026-01-21 114918" src="https://github.com/user-attachments/assets/eb419f2d-5c49-4656-8249-134a1c2fdf8d" />
 ​
 
-###5. **Episode Review**
-Episode-focused discussion boards
+### 5. **Episode Review**
+# Episode-focused discussion boards
 ✅ Write review → Click POST → Live update for all users
 
 <img width="352" height="787" alt="Screenshot 2026-01-21 114932" src="https://github.com/user-attachments/assets/5a313074-434c-46ac-9b41-c49aae92b9c9" />
 
-Perfect for: Episode-specific thoughts, best scenes, plot twists
+# Perfect for: Episode-specific thoughts, best scenes, plot twists
 
 
 <img width="343" height="778" alt="Screenshot 2026-01-21 115003" src="https://github.com/user-attachments/assets/413f8692-0dbd-487a-9325-723e0a9e3114" />
