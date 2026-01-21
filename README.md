@@ -46,45 +46,45 @@ Follows Expo Router file-based routing with dynamic segments like `[id]`. Groups
 ## 🚀 Live Screenshots
 
 ### 1. **Splash Screen** 
-Elegant animated entry point with app branding 
+## Elegant animated entry point with app branding 
 
 <img width="356" height="795" alt="Screenshot 2026-01-21 114832" src="https://github.com/user-attachments/assets/fefd1395-414a-4052-9070-9c59c2b5b04a" />
 
 ### 2. **Home Feed** 
-Beautiful drama cards with live review counts and colorful left borders  
+## Beautiful drama cards with live review counts and colorful left borders  
 **Featured:** Real-time Firebase sync showing 💬 review numbers 
 
 <img width="354" height="788" alt="Screenshot 2026-01-21 114845" src="https://github.com/user-attachments/assets/fff0fc8b-6677-44fe-bd67-766ad7989c7b" />
 
 ### 3. **Drama Details**
-Rich drama header with gradient + Reviews can be posted:
+## Rich drama header with gradient + Reviews can be posted:
 
 
 <img width="352" height="790" alt="Screenshot 2026-01-21 114856" src="https://github.com/user-attachments/assets/0f86d0ac-e809-43e6-adb6-b5fc00b0907e" />
 
 
-💭 "My Review" - Navigate to personal thoughts
+## "My Review" - Navigate to personal thoughts
 
 <img width="353" height="791" alt="Screenshot 2026-01-21 114908" src="https://github.com/user-attachments/assets/2d023e3e-707d-48ad-9480-a4913a77b74c" />
 
 ​
 
 ### 4. **Episodes List**
-List of episodes per drama with live review counts per episode
-Tap any episode → Episode-specific review board
-Shows: Total reviews for each episode in real-time
+## List of episodes per drama with live review counts per episode
+## Tap any episode → Episode-specific review board
+## Shows: Total reviews for each episode in real-time
 
 
 <img width="351" height="787" alt="Screenshot 2026-01-21 114918" src="https://github.com/user-attachments/assets/eb419f2d-5c49-4656-8249-134a1c2fdf8d" />
 ​
 
 ### 5. **Episode Review**
-# Episode-focused discussion boards
+## Episode-focused discussion boards
 ✅ Write review → Click POST → Live update for all users
 
 <img width="352" height="787" alt="Screenshot 2026-01-21 114932" src="https://github.com/user-attachments/assets/5a313074-434c-46ac-9b41-c49aae92b9c9" />
 
-# Perfect for: Episode-specific thoughts, best scenes, plot twists
+## Perfect for: Episode-specific thoughts, best scenes, plot twists
 
 
 <img width="343" height="778" alt="Screenshot 2026-01-21 115003" src="https://github.com/user-attachments/assets/413f8692-0dbd-487a-9325-723e0a9e3114" />
